@@ -97,12 +97,3 @@ This project is licensed under the [ReactBD Free License](./License.md).
 
 To know more about licensing options, visit: [https://www.reactbd.com/license](https://www.reactbd.com/license)
 
-## 💰 Get the Project
-
-[![Get Project](https://img.shields.io/badge/Get%20Project-Buy%20Me%20a%20Coffee-orange?style=for-the-badge)](https://buymeacoffee.com/reactbd/extras)
-
-## ☕ Support
-
-If you find this project helpful, consider supporting us!
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/reactbd)
